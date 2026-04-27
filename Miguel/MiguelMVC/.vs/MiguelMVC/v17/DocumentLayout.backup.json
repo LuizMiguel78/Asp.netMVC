@@ -41,11 +41,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
+<<<<<<< HEAD
               "DocumentMoniker": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\MiguelMVC\\Views\\Cidade\\Index.cshtml",
               "RelativeDocumentMoniker": "MiguelMVC\\Views\\Cidade\\Index.cshtml",
               "ToolTip": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\MiguelMVC\\Views\\Cidade\\Index.cshtml",
               "RelativeToolTip": "MiguelMVC\\Views\\Cidade\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+=======
+              "DocumentMoniker": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\MiguelMVC\\Views\\Pais\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiguelMVC\\Views\\Pais\\Index.cshtml",
+              "ToolTip": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\MiguelMVC\\Views\\Pais\\Index.cshtml",
+              "RelativeToolTip": "MiguelMVC\\Views\\Pais\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+>>>>>>> feat-pais
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-27T18:51:59.363Z",
               "EditorCaption": ""

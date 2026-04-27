@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|e:\\lilian\\sistema financeiro\\asp.netmvc\\miguel\\miguelmvc\\miguelmvc\\views\\cidade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|solutionrelative:miguelmvc\\views\\cidade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,6 +14,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|e:\\lilian\\sistema financeiro\\asp.netmvc\\miguel\\miguelmvc\\miguelmvc\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|solutionrelative:miguelmvc\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|e:\\lilian\\sistema financeiro\\asp.netmvc\\miguel\\miguelmvc\\miguelmvc\\views\\pais\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|solutionrelative:miguelmvc\\views\\pais\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|e:\\lilian\\sistema financeiro\\asp.netmvc\\miguel\\miguelmvc\\miguelmvc\\views\\pais\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|solutionrelative:miguelmvc\\views\\pais\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|e:\\lilian\\sistema financeiro\\asp.netmvc\\miguel\\miguelmvc\\miguelmvc\\controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|solutionrelative:miguelmvc\\controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> feat-pais
     }
   ],
   "DocumentGroupContainers": [
@@ -40,10 +53,17 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
+<<<<<<< HEAD
               "DocumentMoniker": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\MiguelMVC\\Views\\Cidade\\Index.cshtml",
               "RelativeDocumentMoniker": "MiguelMVC\\Views\\Cidade\\Index.cshtml",
               "ToolTip": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\MiguelMVC\\Views\\Cidade\\Index.cshtml",
               "RelativeToolTip": "MiguelMVC\\Views\\Cidade\\Index.cshtml",
+=======
+              "DocumentMoniker": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\MiguelMVC\\Views\\Pais\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiguelMVC\\Views\\Pais\\Index.cshtml",
+              "ToolTip": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\MiguelMVC\\Views\\Pais\\Index.cshtml",
+              "RelativeToolTip": "MiguelMVC\\Views\\Pais\\Index.cshtml",
+>>>>>>> feat-pais
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-27T18:51:59.363Z",
@@ -59,7 +79,11 @@
               "RelativeToolTip": "MiguelMVC\\Controllers\\CidadeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2026-04-27T18:51:02.318Z"
+=======
+              "WhenOpened": "2026-04-27T19:32:09.032Z"
+>>>>>>> feat-pais
             }
           ]
         }
