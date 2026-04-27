@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|e:\\lilian\\sistema financeiro\\asp.netmvc\\miguel\\miguelmvc\\miguelmvc\\views\\cidade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|solutionrelative:miguelmvc\\views\\cidade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|e:\\lilian\\sistema financeiro\\asp.netmvc\\miguel\\miguelmvc\\miguelmvc\\views\\pais\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|solutionrelative:miguelmvc\\views\\pais\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|e:\\lilian\\sistema financeiro\\asp.netmvc\\miguel\\miguelmvc\\miguelmvc\\views\\cidade\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|solutionrelative:miguelmvc\\views\\cidade\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|e:\\lilian\\sistema financeiro\\asp.netmvc\\miguel\\miguelmvc\\miguelmvc\\views\\pais\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|solutionrelative:miguelmvc\\views\\pais\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|e:\\lilian\\sistema financeiro\\asp.netmvc\\miguel\\miguelmvc\\miguelmvc\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|solutionrelative:miguelmvc\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|e:\\lilian\\sistema financeiro\\asp.netmvc\\miguel\\miguelmvc\\miguelmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|solutionrelative:miguelmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|e:\\lilian\\sistema financeiro\\asp.netmvc\\miguel\\miguelmvc\\miguelmvc\\controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A604091-AB94-424F-BFB0-D7C46EB58DBF}|MiguelMVC\\MiguelMVC.csproj|solutionrelative:miguelmvc\\controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Detalhes.cshtml",
-              "DocumentMoniker": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\MiguelMVC\\Views\\Cidade\\Detalhes.cshtml",
-              "RelativeDocumentMoniker": "MiguelMVC\\Views\\Cidade\\Detalhes.cshtml",
-              "ToolTip": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\MiguelMVC\\Views\\Cidade\\Detalhes.cshtml",
-              "RelativeToolTip": "MiguelMVC\\Views\\Cidade\\Detalhes.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-27T18:52:21.167Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\MiguelMVC\\Views\\Cidade\\Index.cshtml",
-              "RelativeDocumentMoniker": "MiguelMVC\\Views\\Cidade\\Index.cshtml",
-              "ToolTip": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\MiguelMVC\\Views\\Cidade\\Index.cshtml",
-              "RelativeToolTip": "MiguelMVC\\Views\\Cidade\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\MiguelMVC\\Views\\Pais\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiguelMVC\\Views\\Pais\\Index.cshtml",
+              "ToolTip": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\MiguelMVC\\Views\\Pais\\Index.cshtml",
+              "RelativeToolTip": "MiguelMVC\\Views\\Pais\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-27T18:51:59.363Z",
+              "WhenOpened": "2026-04-27T19:49:57.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Detalhes.cshtml",
+              "DocumentMoniker": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\MiguelMVC\\Views\\Pais\\Detalhes.cshtml",
+              "RelativeDocumentMoniker": "MiguelMVC\\Views\\Pais\\Detalhes.cshtml",
+              "ToolTip": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\MiguelMVC\\Views\\Pais\\Detalhes.cshtml",
+              "RelativeToolTip": "MiguelMVC\\Views\\Pais\\Detalhes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T19:49:51.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CidadeController.cs",
-              "DocumentMoniker": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\MiguelMVC\\Controllers\\CidadeController.cs",
-              "RelativeDocumentMoniker": "MiguelMVC\\Controllers\\CidadeController.cs",
-              "ToolTip": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\MiguelMVC\\Controllers\\CidadeController.cs",
-              "RelativeToolTip": "MiguelMVC\\Controllers\\CidadeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\MiguelMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiguelMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\MiguelMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MiguelMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T19:49:41.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaisController.cs",
+              "DocumentMoniker": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\MiguelMVC\\Controllers\\PaisController.cs",
+              "RelativeDocumentMoniker": "MiguelMVC\\Controllers\\PaisController.cs",
+              "ToolTip": "E:\\Lilian\\sistema financeiro\\Asp.netMVC\\Miguel\\MiguelMVC\\MiguelMVC\\Controllers\\PaisController.cs",
+              "RelativeToolTip": "MiguelMVC\\Controllers\\PaisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T18:51:02.318Z"
+              "WhenOpened": "2026-04-27T19:49:18.207Z",
+              "EditorCaption": ""
             }
           ]
         }
